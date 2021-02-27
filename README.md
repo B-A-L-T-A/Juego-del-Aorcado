@@ -9,5 +9,6 @@ Las características de el juego son:
 - Gestión de bancos o grupos de palabras con archivos. Es decir, se tiene una base de datos de las palabras<br>
 - Ajustes del juego, para agregar, eliminar o editar palabras y grupos de palabras<br>
 - Selección del grupo de palabras para jugar. Al iniciar, se selecciona una palabra al azar.<br><br>
-![Captura de pantalla (454)](https://user-images.githubusercontent.com/79738875/109378145-624f0600-788d-11eb-9d8d-46bab8e26090.png)
+![Captura de pantalla (454)](https://user-images.githubusercontent.com/79738875/109378174-9c200c80-788d-11eb-9cb4-cb6b2529d5e9.png)
+
 
